@@ -1,0 +1,7 @@
+{
+  "name": "jobtrace-proxy",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "JobTrace EdgeOne Makers Edge Functions proxy (/api/extract-job)"
+}
